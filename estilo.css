@@ -26,7 +26,6 @@ header{
     top: 120px;
     border-radius: 20px;
     border-color: 20px solid black;
-    
 }
 
 
@@ -76,4 +75,22 @@ header{
     background-color: #f54d4d;
     border-radius: 80%;
     border: 0;
+}
+
+.voz img{
+    width: 25px;
+    height: 25px;
+    left: 320px;
+    top: -212px;
+    border: 0;
+    background-color: transparent;
+}
+
+.lupa img{
+    width: 25px;
+    height: 25px;
+    top: -240px;
+    right: 70px;
+    border: 0;
+    background-color: transparent;
 }
